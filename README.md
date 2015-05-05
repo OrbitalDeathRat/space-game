@@ -1,2 +1,2 @@
 # space-game
-Repository for scripts in personal unity space game project
+Repository for scripts in personal unity space game project.
